@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "564684720924",
+    "project_id": "combustible-7dca6",
+    "storage_bucket": "combustible-7dca6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564684720924:android:f6f1f6902829652deac8d9",
+        "android_client_info": {
+          "package_name": "com.conysis.combustible.plantilla"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBATJ94k_FnDgwqan2-YdxMmoiv5fHyvic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

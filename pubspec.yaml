@@ -1,0 +1,32 @@
+name: appcombustible
+description: "Proyecto de control de combustible para empresas de contrucción vial."
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter 
+  cupertino_icons: ^1.0.6
+  firebase_core: ^3.1.1
+  firebase_auth: ^5.1.1
+  sqflite: ^2.3.3+1
+  path: ^1.9.0
+  http: ^1.2.1
+  connectivity_plus: ^6.0.3
+  provider: ^6.1.2
+  qr_code_scanner: ^1.0.1
+  permission_handler: ^11.3.1
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  change_app_package_name: ^1.1.0
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
